@@ -1,0 +1,9 @@
+Composer:<br><br>
+
+Install<br>
+curl -s https://getcomposer.org/installer | php<br>
+sudo mv ./composer.phar /usr/bin/composer<br>
+composer --version<br><br>
+
+Installing Package<br>
+composer require phpmailer/phpmailer<br>
